@@ -14,7 +14,12 @@
           <h2>Privacy & Terms</h2>
         </div>
         <div class="down_nav">
-          <a href="#"><h3></h3></a>  
+          <a href="#"><h3>Overview</h3></a>
+          <a href="#"><h3>Privacy Policy</h3></a>
+          <a href="#"><h3>Terms of Service</h3></a>
+          <a href="#"><h3>Technologies</h3></a>
+          <a href="#"><h3 id='faq'>FAQ</h3></a>
+          <a id='ggl' href="#"><h3>Google Account</h3></a>
         </div>
       </div>
     </div>

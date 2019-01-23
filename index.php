@@ -72,7 +72,7 @@
 
           foreach ($paragrafo as $int) {
 
-            ?> <h5><?php echo $int; ?></h5>  <?php
+            ?> <h2><?php echo $int; ?></h2>  <?php
           }
 
         }
